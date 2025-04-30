@@ -22,5 +22,8 @@ Create or Join Games – Host a race with a 4-digit party code or enter a friend
 
 * 2 Unique Car Designs – Choose between different vehicle styles.
 
+# How to run the game : 
+in the game folder open cmd then write python main.py or simply double click main.py
+
 # Packages : 
 pip install pygame-ce opencv-python numpy pygame ffmpeg-python
