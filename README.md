@@ -21,3 +21,6 @@ Create or Join Games – Host a race with a 4-digit party code or enter a friend
 * Background Music – Energetic soundtrack to keep the adrenaline pumping.
 
 * 2 Unique Car Designs – Choose between different vehicle styles.
+
+# Packages : 
+pip install pygame-ce opencv-python numpy pygame ffmpeg-python
